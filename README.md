@@ -107,6 +107,7 @@ c.close()
 s.close()
 
 ```
+
 # client:
 ```
 import socket
@@ -126,6 +127,9 @@ c.close()
 ## OUPUT -RARP
 # server:
 <img width="711" height="302" alt="image-3" src="https://github.com/user-attachments/assets/379e4c06-e633-49f6-ab40-59876033f1f0" />
+
+
+
 # client:
 <img width="704" height="316" alt="image-2" src="https://github.com/user-attachments/assets/4ad918e5-d7a1-4d18-b601-15ec48e0f6dd" />
 
