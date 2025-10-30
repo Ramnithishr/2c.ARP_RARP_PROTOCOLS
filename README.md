@@ -70,6 +70,8 @@ c.close()
 ## OUPUT - ARP
 # server:
 <img width="727" height="282" alt="image" src="https://github.com/user-attachments/assets/1d9f3f7f-ee4a-4f8d-9630-8eb5ec99d60c" />
+
+
 # client:
 <img width="713" height="288" alt="image-1" src="https://github.com/user-attachments/assets/0b7f47cc-fb32-4fdd-9c9f-a10315482e1f" />
 
